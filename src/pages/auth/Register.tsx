@@ -1,4 +1,4 @@
-function About() {
+const Register = () => {
   return (
     <section>
       <h1>About page</h1>
@@ -6,4 +6,4 @@ function About() {
   )
 }
 
-export default About
+export default Register

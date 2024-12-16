@@ -1,4 +1,4 @@
-function Contact() {
+const Login = () => {
   return (
     <section>
       <h1>About page</h1>
@@ -6,4 +6,4 @@ function Contact() {
   )
 }
 
-export default Contact
+export default Login

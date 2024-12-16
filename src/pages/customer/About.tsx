@@ -1,4 +1,4 @@
-function Home() {
+const About = () => {
   return (
     <section>
       <h1>About page</h1>
@@ -6,4 +6,4 @@ function Home() {
   )
 }
 
-export default Home
+export default About
